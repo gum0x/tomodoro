@@ -1,4 +1,6 @@
-# Tomodoro (former Pomocucoo)
+# Tomodoro (former Pomocucoo) 
+> [!WARNING]
+> Project archived. See [gum0x/bringmeback](https://github.com/gum0x/bringmeback) for an alternative.
 
 Tomodoro is a pomodoro timer that should help you to keep focus on your work and eventually to keep track of your spend time. 
 
